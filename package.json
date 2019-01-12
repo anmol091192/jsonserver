@@ -2,7 +2,7 @@
   "name": "jsonserver",
   "version": "1.0.0",
   "description": "test",
-  "main": "index.html",
+  "main": "./public",
   "scripts": {
     "start": "json-server --watch db.json -p 3001 -d 2000"
   },
