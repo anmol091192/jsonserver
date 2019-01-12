@@ -2,9 +2,9 @@
   "name": "jsonserver",
   "version": "1.0.0",
   "description": "test",
-  "main": "./public",
+  "main": "index.js",
   "scripts": {
-    "start": "json-server --watch db.json -p 3001 -d 2000"
+    "start": "node index.js"
   },
   "author": "",
   "license": "ISC",
